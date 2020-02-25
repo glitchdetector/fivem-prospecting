@@ -1,0 +1,258 @@
+{
+    "american": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Dig"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "You found something!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Stop prospecting"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Enable scanner audio"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Disable scanner audio"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Prospecting"
+        }
+    ],
+    "french": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Creuser"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "Tu l'as trouvé!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Arrêtez la prospection"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Activer l'audio du scanner"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Désactiver l'audio du scanner"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Prospection"
+        }
+    ],
+    "german": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Graben"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "Du hast es gefunden!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Hör auf zu schürfen"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Aktivieren Detektorton"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Deaktivieren Detektorton"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Prospektion"
+        }
+    ],
+    "italian": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Scavare"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "L'hai trovato!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Smettere di prospezione"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Attiva il suono di scansione"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Disattiva il suono di scansione"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Prospezione"
+        }
+    ],
+    "spanish": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Cavar"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "¡Lo encontraste!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Deja de prospectar"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Activar sonido de escaneo"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Apague el sonido de escaneo"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Prospección"
+        }
+    ],
+    "polish": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Kopać"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "Znalazłeś to!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Przestań poszukiwać"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Włącz dźwięk skanowania"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Wyłącz dźwięk skanowania"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Poszukiwanie"
+        }
+    ],
+    "portuguese": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Escavação"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "Você achou!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Interromper a prospecção"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Ativar som de digitalização"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Desativar som de digitalização"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Prospecção"
+        }
+    ],
+    "russian": [
+        {
+            "LABEL": "PROSP_DIG",
+            "ORIGINAL": "Dig",
+            "TRANSLATION": "Копать землю"
+        },
+        {
+            "LABEL": "PROSP_DIG_HINT",
+            "ORIGINAL": "You found something!",
+            "TRANSLATION": "Ты нашел это!"
+        },
+        {
+            "LABEL": "PROSP_STOP",
+            "ORIGINAL": "Stop prospecting",
+            "TRANSLATION": "Прекратить поиски"
+        },
+        {
+            "LABEL": "PROSP_AUDIOON",
+            "ORIGINAL": "Enable scanner audio",
+            "TRANSLATION": "Включить сканирование звука"
+        },
+        {
+            "LABEL": "PROSP_AUDIOOFF",
+            "ORIGINAL": "Disable scanner audio",
+            "TRANSLATION": "Отключить звук сканирования"
+        },
+        {
+            "LABEL": "PROSP_BLIP",
+            "ORIGINAL": "Prospecting",
+            "TRANSLATION": "Геологоразведочные"
+        }
+    ]
+}
